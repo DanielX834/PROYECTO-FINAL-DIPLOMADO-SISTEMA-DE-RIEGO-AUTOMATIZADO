@@ -1,6 +1,6 @@
 # PROYECTO-FINAL-DIPLOMADO-SISTEMA-DE-RIEGO-AUTOMATIZADO
 
-Este repositorio se muetsra el proyecto final del Diplomado Automatizacion Industrial y Mecatronica, en la cual consiste en un **Sitema de riego automatizado**, utilizando las herramentas de NodeRed, WOKWI y MySQL
+Este repositorio se muestraa el proyecto final del Diplomado Automatizacion Industrial y Mecatronica, en la cual consiste en un **Sitema de riego automatizado**, utilizando las herramentas de NodeRed, WOKWI y MySQL
 
 
 ## Introducción
